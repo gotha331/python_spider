@@ -17,6 +17,27 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Chapter2\6_xpath解析入门.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Chapter2\7_xpath案例_猪八戒网.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Chapter2\a.html">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Chapter2\douban250.csv">
           <value>
             <Attribute>
