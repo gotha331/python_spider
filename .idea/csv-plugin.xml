@@ -73,6 +73,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Chapter4_给爬虫提速\1_多线程.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Chapter4_给爬虫提速\2_多进程.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
