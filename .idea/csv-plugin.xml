@@ -52,6 +52,27 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Chapter3\1_模拟用户登录_处理cookie.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Chapter3\2_防盗链的处理.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Chapter3\3_代理.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
