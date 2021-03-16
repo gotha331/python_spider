@@ -87,6 +87,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Chapter4_给爬虫提速\3_线程池和进程池.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Chapter4_给爬虫提速\4_线程池和进程池实战.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
